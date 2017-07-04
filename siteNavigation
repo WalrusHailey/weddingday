@@ -1,0 +1,179 @@
+<nav class="navbar navbar-wd-storelist hidden-xs ">
+    <div class="container ">
+        <ul class="nav navbar-nav" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+            <li class="wd-drop-wrapper" itemprop="name">
+                <a itemprop="url" href="https://share.weddingday.com.tw" >
+                    <h3>
+                                                <img alt="Brand" class="pull-left" width="15" height="auto" src="https://cdn.weddingday.com.tw/wedding-icon/main/B-Wsis.svg" style="margin-top: 3px;">
+                                                Ｗ姐妹會
+                    </h3>
+                </a>
+
+                <ol class="wd-drop_submenu list-unstyled text-center hidden-xs">
+                    <!--下拉選單-->
+                    <li>
+                    <a itemprop="url" href="https://share.weddingday.com.tw/">
+                    <b>Ｗ姐妹會</b>
+                        <br><small class="hidden-xs">學姊超強婚禮分享</small>
+                    </a>
+                    </li>
+                </ol>
+            </li>
+
+            <li class="wd-drop-wrapper">
+                <a href="https://store.weddingday.com.tw/weddingstudio" >
+                <h3>拍婚紗</h3>
+                </a>
+                <ol class="wd-drop_submenu list-unstyled text-center hidden-xs">
+                    <!--下拉選單-->
+                    <li onclick="javascript:location.href='https://store.weddingday.com.tw/weddingstudio'">
+                        <b>拍婚紗 </b><small>推薦</small>
+                        <br><small class="hidden-xs">韓風、清新、日系婚紗照</small>
+                    </li>
+                    <li onclick="javascript:location.href='https://store.weddingday.com.tw/weddingstudio/stores'">
+                        <b>婚紗店家</b> <small>一覽</small>
+                        <br><small class="hidden-xs">30間以上熱門婚紗店家</small>
+                    </li>
+                    <li onclick="javascript:location.href='https://store.weddingday.com.tw/weddingstudio/works'">
+                        <i class="fa fa-bookmark-o" aria-hidden="true"></i>  <b>婚紗照</b> <small>相本</small>
+                        <br><small class="hidden-xs">2,000種以上不同風格的婚紗作品</small>
+                    </li>
+                    <li  class="service" onclick="javascript:location.href='https://store.weddingday.com.tw/weddingstudio/services'">
+                        婚紗包套
+                        
+                                            </li>
+                </ol>
+            </li>
+            <li class="wd-drop-wrapper">
+                <a href="https://store.weddingday.com.tw/weddingdress" >
+                <h3>婚紗禮服</h3>
+                </a>
+                <ol class="wd-drop_submenu list-unstyled text-center hidden-xs">
+                    <!--下拉選單-->
+                    <li onclick="javascript:location.href='https://store.weddingday.com.tw/weddingdress'">
+                        <b>婚紗禮服</b> <small>推薦</small>
+                        <br><small class="hidden-xs">找到屬於妳的絕美婚紗</small>
+                    </li>
+                    <li onclick="javascript:location.href='https://store.weddingday.com.tw/weddingdress/stores'">
+                        <b>禮服店家</b> <small>一覽</small>
+                        <br><small class="hidden-xs">超過30間人氣店家</small>
+                    </li>
+                    <li onclick="javascript:location.href='https://store.weddingday.com.tw/weddingdress/works'">
+                        <b>全部禮服</b>
+                        <br><small class="hidden-xs">超過3,000件婚紗禮服</small>
+                    </li>
+                
+                    <li class="service" onclick="javascript:location.href='https://store.weddingday.com.tw/weddingdress/services'">
+                        禮服包套
+                                            </li>
+                </ol>
+            </li>
+            <li class="wd-drop-wrapper">
+
+                <a href="https://store.weddingday.com.tw/photographer" ><h3>婚攝/婚錄</h3></a>
+
+                <ol class="wd-drop_submenu list-unstyled ">
+                    <li class="cursor_pointer" onclick="javascript:location.href='https://store.weddingday.com.tw/photographer/photo'">
+                        <b>婚攝/婚錄</b> <small>推薦</small>
+                        <br>
+                        <small class="hidden-xs">紀錄最重要的一刻</small>
+                    </li>
+
+                    
+                    <li class="cursor_pointer" onclick="javascript:location.href='https://store.weddingday.com.tw/photographer/stores?type=photo'">
+                        <b>平面婚攝</b> <small>一覽</small>
+                        <br>
+                        <small class="hidden-xs">相機拍攝婚宴當日的紀錄</small>
+                        
+                    </li>
+
+                    <li class="cursor_pointer" onclick="javascript:location.href='https://store.weddingday.com.tw/photographer/works?type=1'" >
+                        <i class="fa fa-camera-retro" aria-hidden="true"></i> 平面婚攝作品
+                        
+                    </li>
+               
+                    <li class="cursor_pointer" onclick="javascript:location.href='https://store.weddingday.com.tw/photographer/stores?type=video'">
+                       <b> 動態錄影</b> <small>一覽</small>
+                        <br>
+                        <small class="hidden-xs">錄影婚宴當日的影片</small>
+                    </li>
+                  
+                    <li class="cursor_pointer" onclick="javascript:location.href='https://store.weddingday.com.tw/photographer/works?type=2'" >
+                        <i class="fa fa-play-circle-o" aria-hidden="true"></i> 動態錄影作品
+                    </li>
+                    
+                    <li class="service" onclick="javascript:location.href='https://store.weddingday.com.tw/photographer/services'">
+                        <b>婚攝/婚錄 </b> <small>服務一覽</small>
+                                            </li>
+                </ol>
+            </li>
+
+            <li class="wd-drop-wrapper">
+                <a href="https://store.weddingday.com.tw/makeupartist" ><h3>新秘</h3></a>
+                <ol class="wd-drop_submenu list-unstyled text-center">
+                    <li class="cursor_pointer" onclick="javascript:location.href='https://store.weddingday.com.tw/makeupartist'">
+                        <b>新秘</b> <small>推薦</small>
+                        <br>
+                        <small class="hidden-xs">一生的大事，需要巧手新秘</small>
+                    </li>
+                    <li class="cursor_pointer" onclick="javascript:location.href='https://store.weddingday.com.tw/makeupartist/stores'">
+                        <b>新秘</b> <small>一覽</small>
+                        <br>
+                        <small class="hidden-xs">免車馬費新秘口袋名單</small>
+                    </li>
+                    <li class="cursor_pointer" onclick="javascript:location.href='https://store.weddingday.com.tw/makeupartist/works'">
+                        <i class="fa fa-bookmark-o" aria-hidden="true"></i> 新秘作品
+                        <br>
+                        <small class="hidden-xs">超過8,000種不同的新娘造型</small>
+                    </li>
+                    <li  class="service" onclick="javascript:location.href='https://store.weddingday.com.tw/makeupartist/services'">
+                        <b>新秘</b> <small>服務一覽</small>
+                                            </li>
+                </ol>
+            </li>
+
+            <li class="wd-drop-wrapper">
+                <a href="https://store.weddingday.com.tw/weddingvenue/stores" ><h3>婚宴場地</h3></a>
+                <ol class="wd-drop_submenu list-unstyled text-center">
+                                        <li class="cursor_pointer" onclick="javascript:location.href='https://store.weddingday.com.tw/weddingvenue/stores'">
+                        <b>所有婚宴場地</b> <small>一覽</small>
+                        <br>
+                        <small class="hidden-xs">看看附近有哪些優質場地</small>
+                    </li>
+                    <li  class="service" class="cursor_pointer" onclick="javascript:location.href='https://store.weddingday.com.tw/weddingvenue/services'">
+                        <b>最新專案</b>
+                        <br>
+                        <small class="hidden-xs">小資女孩不可錯過絕美專案價</small>
+                    </li>
+                </ol>
+            </li>
+            <li class="wd-drop-wrapper">
+                <a href="https://store.weddingday.com.tw/weddingdecoration" ><h3>婚禮佈置</h3></a>
+                <ol class="wd-drop_submenu list-unstyled text-center">
+                    <li class="cursor_pointer" onclick="javascript:location.href='https://store.weddingday.com.tw/weddingdecoration'">
+                        <b>婚佈</b> <small>推薦</small>
+                        <br>
+                        <small class="hidden-xs">專屬於你的場景</small>
+                    </li>
+                    <li class="cursor_pointer" onclick="javascript:location.href='https://store.weddingday.com.tw/weddingdecoration/stores'">
+                        <b>婚佈店家</b> <small>一覽</small>
+                        <br>
+                        <small class="hidden-xs">免運費婚佈</small>
+                    </li>
+                    <li class="cursor_pointer" onclick="javascript:location.href='https://store.weddingday.com.tw/weddingdecoration/works'">
+                        <b>婚佈作品</b><small>一覽</small>
+                        <br>
+                        <small class="hidden-xs">婚佈夢幻作品等你來收藏</small>
+                    </li>
+                </ol>
+            </li>
+            <li class="wd-drop-wrapper">
+                <a href="https://www.weddingday.com.tw/mall" ><h3>婚禮小物</h3>
+                </a>
+            </li>
+            <li class="wd-drop-wrapper">
+                <a href="http://blog.weddingday.com.tw" target="_blank"><h3>部落格</h3></a>
+            </li>
+        </ul>
+    </div>
+</nav>
